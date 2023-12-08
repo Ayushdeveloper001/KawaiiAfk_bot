@@ -255,7 +255,7 @@ async def welcome(_, message: Message):
         try:
             if member.id == botid:
                 send =  await message.reply_text(
-                    f"Thanks for having me in {message.chat.title}\n\n{botname} is alive."
+                    f"Thanks for having me in {message.chat.title}\n\nKawaii Afk Bot is alive."
                 )
                 await put_cleanmode(message.chat.id, send.message_id)
         except:
