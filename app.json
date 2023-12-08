@@ -17,7 +17,7 @@
       "size": "free"
     }
   },
-  "repository": "https://github.com/TeamYukki/YukkiAFKBot",
+  "repository": "https://github.com/Ayushdeveloper001/KawaiiAfk_bot",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
