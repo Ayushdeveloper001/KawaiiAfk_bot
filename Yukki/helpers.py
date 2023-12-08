@@ -82,7 +82,7 @@ RANDOM = [
 ]
 
 
-HELP_TEXT = f"""Welcome to {Kawaii's Help Section.
+HELP_TEXT = f"""Welcome to Kawaii's Help Section.
 
 - When someone mentions you in a chat, the user will be notified you are AFK. You can even provide a reason for going AFK, which will be provided to the user as well.
 
