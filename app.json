@@ -22,27 +22,27 @@
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": ""
+      "value": "28397760"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": ""
+      "value": "c5850a7b1efe26f5835a1c219e65ed54"
     },
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
       "required": true,
-      "value": ""
+      "value": "6950370986:AAF98skgnc__B8nMTINsdGF2CtWKjYvcXy8"
     },
     "MONGO_DB_URI": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
       "required": true,
-      "value": ""
+      "value": "mongodb+srv://BlackHatDev:BlackHatDev@blackhatdev.zk92igo.mongodb.net/?retryWrites=true&w=majority"
     },
     "SUDO_USER": {
       "description": "The user id(s) of user(s) whom you would like to add as a SUDO_USER, Multiple values shall be seperated with a space.",
       "required": true,
-      "value": ""
+      "value": "6276277461"
     }
   }
 }
